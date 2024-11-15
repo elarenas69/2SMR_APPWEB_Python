@@ -7,3 +7,5 @@ w = float(pulgadas)
 
 
 print ( pies, "pies y", pulgadas, "pulgadas son", (( q * 12 ) * 2.54) + (w * 2.54), "cm")
+
+as
